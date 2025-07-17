@@ -1,0 +1,17 @@
+// Small Todo App - Angular - Node.js
+/**
+ * Features:
+ * 1. Todo Interface will show Add Task, Edit Task, Update Task, Delete Task in Angular
+ * 2. Addding task --> it will add it in the Db and fetch form the db.
+ * 3. Editing todo --> it will fetch the particular task with an Id and then It will be shown it.
+ * 4. Updating todo --> it will take an data from an User then find the Id then update the particular Id
+ * 5. Delete todo --> it will take an Id from user it will findout and then delete the todo
+ */
+
+ Technologies are going to use in this 
+ 1. Angular - Frontend
+ 2. Node.js - Backend
+ 3. Express - Backend
+ 4. Mongodb - Database
+ 5. Mongoose - Connection
+
