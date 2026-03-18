@@ -60,6 +60,7 @@ npm install
 cp .env.example .env     # Or manually create .env
 npm start
 
+Sample .env file:
 ```bash
 PORT=3001
 JWT_SECRET=your_jwt_secret_key
@@ -74,9 +75,11 @@ cp .env.example .env     # Or manually create .env
 npm start
 
 Sample .env file:
+```bash
 PORT=3000
 MONGO_URI=mongodb://localhost:27017/todo-service
 JWT_SECRET=your_jwt_secret_key  # Must match user-service
+```
 
 ## 🧪 5. Test with Postman
 Use Postman or any REST client to:
