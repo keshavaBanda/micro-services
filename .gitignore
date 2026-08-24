@@ -2,3 +2,4 @@ todo-services/node_modules
 user-services/node_modules
 todo-services/*env
 user-services/*env
+/node_modules
